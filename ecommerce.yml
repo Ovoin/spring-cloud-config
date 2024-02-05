@@ -1,6 +1,6 @@
 token:
-  expiration_time: 864 
-  secret: user-token-changed
+  expiration_time: 864000000 
+  secret: user-token
 
 gateway:
   ip: 127.0.0.1
