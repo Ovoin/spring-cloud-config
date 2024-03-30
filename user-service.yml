@@ -1,9 +1,9 @@
 token:
   expiration_time: 864000000 
-  secret: '{cipher}AQBzC6KltLhn7HM3N56lRTTzZBFvzUNh6sBA2RkWQfewGzOhdKN+dvqCKyfkH+IBm0FR21iFcX7gG9uvXSmwZUSrjOP3sfzI3nsSE5BRv8cuX/3Jp+L8w0tCxhklvTo+spKGmFRGxSs08ivkreB3e1cbf1VeHBvozgRvrHK15Cf63ORbpE2+WA/lxEjnhOyUE/U7hEWH16SAxLepWQrybQ7F0lCnUsPogKJs198PmPb5tjxziudO2RYXvZMHsFtWoBYcsmoLVXfcTgDMLooubgV9aA1W62Rs8VSfXWu2jyRzWJnPFZQzxszz+/cpcqqu1HR9df2L0O8ZvisBe7LCgtkR0AGBUMdAnOmKeakhAklsBCYQkZalkG6fh6lhC2q7jTe5r/CyFagWpGNQJ4N9y4J+'
+  secret: '{cipher}AQCnJSA0+DO29OBZNdxm3jzC759d3DVXET82NGNoPJTDBtD0g/EuU7+kbvNXxqN/HstZICxhl2H085VcqaahYYNRCB97w9efxOwmujSvSaqJRAf/WRf5KmSOPP5RC+FMGxutiLvWCNi2BQ/FPR5e6Eo7vaHxwKfZCwvkQLV/zHoQmSZo0U5A8VnBKFHdfM71s18dsdAuNg7O6pL35Z6oQ/dbUYV+rQltF0Ve/yVE/LYUoyz2qxkQ7dCd1tRVNoMqqUFu38nz2kaa5bTDnShEtdbhMiGyB40GnOtGUm334noZYgOMflbJWwwB+aNQj85abXjI1Dz5r7Nl65w6o+l8nuOMWLST1LNDMBePoBH88pQibMDFyxogj57rDOFm/HErV18='
 
 gateway:
-  ip: 127.0.0.1
+  ip: 172.18.0.5
 
 spring:
   datasource:
